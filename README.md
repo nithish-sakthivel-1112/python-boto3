@@ -1,2 +1,5 @@
 # python-boto3
-Python-Boto3 - This repo has the codes of automating AWS services using Boto3 module.
+
+Hey everyone, welcome to my repo!!
+
+This Repo have the python scripts to provisoning the AWS resources using boto3 module
