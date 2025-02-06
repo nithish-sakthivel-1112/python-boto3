@@ -13,5 +13,4 @@ response = ec2_create_resources.run_instances(
     #SubnetId = 'Replace with you Subnet id ',  #Not required it is optional
    
 )
-
 print(response)
